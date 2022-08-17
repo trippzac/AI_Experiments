@@ -8,7 +8,3 @@ KinematicSteeringOutput::KinematicSteeringOutput()
 	Velocity = FVector::ZeroVector;
 	Rotation = 0.f;
 }
-
-KinematicSteeringOutput::~KinematicSteeringOutput()
-{
-}

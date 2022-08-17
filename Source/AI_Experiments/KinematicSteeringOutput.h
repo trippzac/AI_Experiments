@@ -7,7 +7,6 @@ class AI_EXPERIMENTS_API KinematicSteeringOutput
 {
 public:
 	KinematicSteeringOutput();
-	~KinematicSteeringOutput();
 
 	FVector Velocity;
 	float Rotation;
